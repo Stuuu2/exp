@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Stuuu2/exp/main/ac6'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Stuuu2/exp/main/ac62'))()
 -execute the script in the car
 -V button for speed hack car
 -N button for Car teleport
