@@ -1,1 +1,2 @@
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Stuuu2/roblox/main/0023/AC6%20Teleporter.lua"))()
+-execute the script in the car
